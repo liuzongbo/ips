@@ -22,10 +22,10 @@
 12. December
 
 ## 参考
-         [参考] （http://pic-hzrb.hangzhou.com.cn/0/10/77/73/10777357_637346.jpg）
+[乔布斯](http://pic-hzrb.hangzhou.com.cn/0/10/77/73/10777357_637346.jpg)
 
 ## 图片
-！ [http://pic-hzrb.hangzhou.com.cn/0/10/77/73/10777357_637346.jpg]
+![](http://pic-hzrb.hangzhou.com.cn/0/10/77/73/10777357_637346.jpg)
 
 ### 三级标题
 #### 四级标题
